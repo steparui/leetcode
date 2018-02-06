@@ -1,5 +1,5 @@
 // Source : https://oj.leetcode.com/problems/add-two-numbers/
-// Author : shirui
+// Author : Shi Rui
 // Data : 2018-02-06
 
 // You are given two non-empty linked lists representing two non-negative integers.
