@@ -58,5 +58,5 @@ public:
             list->next = new ListNode(result);
         }
         return head->next;
-    }
+    } 
 };
