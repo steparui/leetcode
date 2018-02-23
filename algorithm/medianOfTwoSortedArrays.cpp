@@ -19,10 +19,10 @@ public:
         for(auto it_1 : nums2)
         {
             if (nums1.empty())
-				{
-					nums1 = nums2;
-					break;
-				}
+	    {
+	    	nums1 = nums2;
+		break;
+	    }
             
             auto it_2 = nums1.begin();
             for(;it_2 != nums1.end(); it_2++)
