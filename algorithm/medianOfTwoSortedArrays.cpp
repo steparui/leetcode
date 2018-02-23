@@ -28,10 +28,10 @@ public:
             for(;it_2 != nums1.end(); it_2++)
             {
                 if (it_2 == nums1.end() - 1 && it_1 >= *it_2)
-					{
-						nums1.push_back(it_1);
-						break;
-					}
+		{
+			nums1.push_back(it_1);
+			break;
+		}
                 
                 if(it_1 >= *it_2)
                     continue;
