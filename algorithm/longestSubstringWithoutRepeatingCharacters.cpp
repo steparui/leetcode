@@ -17,8 +17,8 @@ public:
         
             vector<string> total;
 			
-			for (int i = 0; i <= s.size() - 1; i++)
-			{
+	    for (int i = 0; i <= s.size() - 1; i++)		
+	    {
                 string temp;
                 for(int j = i; j <= s.size() - 1; j++)
                 {
